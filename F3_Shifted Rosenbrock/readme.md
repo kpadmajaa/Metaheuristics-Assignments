@@ -4,7 +4,7 @@
 <img width="525" alt="RosenbrockQn" src="https://user-images.githubusercontent.com/35540215/88486518-8c9ab700-cf7e-11ea-9cec-9c7c118835a4.PNG">
 
 * **Data file** :  'rosenbrock.txt' (data provided)
-* **Usage** The file 'shifted_rosenbrock.py' which contains the python code along with the data file 'rosenbrock.txt' may be used in Jupyter notebook/Google Colab
+* **Usage** The file 'shifted_rosenbrock.py' which contains the python code, along with the data file 'rosenbrock.txt', may be used in Jupyter notebook/Google Colab
 * **Choice of algorithm** : Pygmo package  with Covariance Matrix Adaptation Evolution Strategy (CMA-ES) algorithm has been used, since it gives good approximations for this type of problem, in terms of value as well as computation time. The Genetic algorithm and Particle Swarm Optimisation(PSO) , though converge, the values are way off the target optimum
 * **Parameters used** : Population size, Generations
 * **Stopping criterion** : A good approximation close to the best available solution for the problem
