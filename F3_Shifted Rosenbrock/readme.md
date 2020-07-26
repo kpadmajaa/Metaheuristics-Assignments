@@ -1,6 +1,6 @@
 # Metaheuristics
 
-##  F3 Sifted Rosenbrock's Function - Optimisation for dimensions 50 and 500:
+##  F3 Shifted Rosenbrock's Function - Optimisation for dimensions 50 and 500:
 <img width="525" alt="RosenbrockQn" src="https://user-images.githubusercontent.com/35540215/88486518-8c9ab700-cf7e-11ea-9cec-9c7c118835a4.PNG">
 
 * **Data file** :  'rosenbrock.txt' (data provided)
