@@ -10,4 +10,8 @@
 <img width="362" alt="tsp Qatar" src="https://user-images.githubusercontent.com/35540215/88482567-5ea77980-cf62-11ea-8ac4-cc3ab78301d0.PNG">
 
 
-* **References** : https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
+* **References** : 
+
+1. https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
+                   
+2. https://www.hindawi.com/journals/cin/2017/7430125/
