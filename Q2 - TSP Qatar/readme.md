@@ -2,7 +2,8 @@
 
 ## Question 2 : Solve the travelling salesman problem with 194 cities (Qatar)
 
-* **Data file** : qatar.csv (extracted from http://www.math.uwaterloo.ca/tsp/world/qa194.tsp)
+* **Data file** : 'qatar.csv' (extracted from http://www.math.uwaterloo.ca/tsp/world/qa194.tsp)
+* **Usage** : The file 'tsp qatar.py' containing the python code, can be executed using jupyternotebook/ GoogleColab along with the data file 'qatar.csv'
 * **Choice of algorithm** : Genetic algorithm based on selection criteria, crossover and mutation operators has been used, since it gives good approximations for NP-hard problems like travelling salesman problem.
 * **Parameters used** : Population size, Elite Size, Mutation rate, Generations
 * **Stopping criterion** : A good approximation close to the best available solution for the problem. In this case the number of cities have been scaled down to 50 due to system constraints.
