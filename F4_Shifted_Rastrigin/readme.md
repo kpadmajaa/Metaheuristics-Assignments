@@ -1,6 +1,6 @@
 # Metaheuristics
 
-##  F3 Shifted Rastrigin's Function - Optimisation for dimensions 50 and 500:
+##  F4 Shifted Rastrigin's Function - Optimisation for dimensions 50 and 500:
 <img width="525" alt="rastriginqn" src="https://user-images.githubusercontent.com/35540215/88486843-e8663f80-cf80-11ea-83f8-8f25415edc9b.PNG">
 
 * **Data file** :  'rastrigin.txt' (data provided)
