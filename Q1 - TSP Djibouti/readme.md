@@ -3,7 +3,7 @@
 ## Question 1 : Solve the travelling salesman problem with 38 cities (Djibouti)
 
 * **Data file** : 'djibouti.csv' (extracted from http://www.math.uwaterloo.ca/tsp/world/dj38.tsp)
-* **Usage** : The file 'tsp djibouti' can be executed using jupyternotebook/ GoogleColab along with the data file 'djibouti.csv'
+* **Usage** : The file 'tsp djibouti.py' containing the python code, can be executed using jupyternotebook/ GoogleColab along with the data file 'djibouti.csv'
 * **Choice of algorithm** : Genetic algorithm based on selection criteria, crossover and mutation operators has been used, since it gives good approximations for NP-hard problems like travelling salesman problem.
 * **Parameters used** : Population size, Elite Size, Mutation rate, Generations
 * **Stopping criterion** : A good approximation close to the best solution available for this problem
