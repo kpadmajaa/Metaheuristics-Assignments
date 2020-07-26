@@ -4,7 +4,7 @@
 <img width="500" alt="ss" src="https://user-images.githubusercontent.com/35540215/88484435-b946d280-cf6e-11ea-9d6f-22861965cddc.PNG">
 
 * **Data file** :  'sphere.txt' (data provided)
-* **Usage ** The file 'shifted_sphere.py' which contains the python code along with the data file 'sphere.txt' may be used in Jupyter notebook/Google Colab
+* **Usage** : The file 'shifted_sphere.py' which contains the python code, along with the data file 'sphere.txt', may be used in Jupyter notebook/Google Colab
 * **Choice of algorithm** : Pygmo package  with Genetic algorithm has been used, since it gives good approximations for this type of problem, in terms of value as well as computation time.
 * **Parameters used** : Population size, Generations
 * **Stopping criterion** : A good approximation close to the best available solution for the problem
