@@ -1,17 +1,12 @@
-Metaheuristics
-Implementation of the Genetic Algorithm
-Implementation of the Genetic algorithm to solve the TSP problem.
+# Metaheuristics
 
-Implementation choices:
+## Question 1 : Solve the travelling salesman problem with 38 cities (Djibouti)
 
-Parent selection for cross-over using:
+* **Data file** : djibouti.csv (extracted from http://www.math.uwaterloo.ca/tsp/world/dj38.tsp)
+* **Choice of algorithm** : Genetic algorithm based on selection criteria, crossover and mutation operators has been used, since it gives good approximations for NP-hard problems like travelling salesman problem.
+* **Parameters used** : Population size, Elite Size, Mutation rate, Generations
+* **Stopping criterion** : Number of generations
+* **Result:**
+<img width="393" alt="dj 7636 100 1100" src="https://user-images.githubusercontent.com/35540215/88482224-36b71680-cf60-11ea-8062-f999e950e7ae.PNG">
+* **References** : https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
 
-Selection by Ranking for N first individual then for the remaning selection:
-Roulette Wheel Selection
-Random initialization of the population
-
-GA Stopping Criteria: no or marginal improvement for the last N solutions
-
-Insertion Strategies: replace an entire population
-
-Mutation: mutation can apply to all individual (according to the rate) except for the fittest individual.
