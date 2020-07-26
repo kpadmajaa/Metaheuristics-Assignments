@@ -1,7 +1,7 @@
 # Metaheuristics
 
 ##  F3 Shifted Rastrigin's Function - Optimisation for dimensions 50 and 500:
-
+<img width="525" alt="rastriginqn" src="https://user-images.githubusercontent.com/35540215/88486843-e8663f80-cf80-11ea-83f8-8f25415edc9b.PNG">
 
 * **Data file** :  'rastrigin.txt' (data provided)
 * **Usage** The file 'shifted_rastrigin.py' which contains the python code, along with the data file 'rastrigin.txt', may be used in Jupyter notebook/Google Colab
@@ -9,6 +9,8 @@
 * **Parameters used** : Population size, Generations
 * **Stopping criterion** : A good approximation close to the best available solution for the problem
 * **Result** : 
+
+<img width="450" alt="rastrigindim50" src="https://user-images.githubusercontent.com/35540215/88486847-eef4b700-cf80-11ea-96df-9fdb7bdb9a0d.PNG"> <img width="450" alt="rastrigindim500" src="https://user-images.githubusercontent.com/35540215/88486850-f320d480-cf80-11ea-868f-893a488b3062.PNG">
 
 
 
