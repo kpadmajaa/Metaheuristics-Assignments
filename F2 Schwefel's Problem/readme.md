@@ -1,6 +1,7 @@
 # Metaheuristics
 
 ##  F2 Schwefel's Problem 2.21 - Optimisation for dimensions 50 and 500:
+<img width="500" alt="schwefelqn" src="https://user-images.githubusercontent.com/35540215/88485079-979c1a00-cf73-11ea-9a43-6f0b381d4fe8.PNG">
 
 
 * **Data file** :  'schwefel.txt' (data provided)
