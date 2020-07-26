@@ -12,6 +12,5 @@
 
 * **References** : 
 
-1. https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
-                   
+1. https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35                   
 2. https://www.hindawi.com/journals/cin/2017/7430125/
