@@ -1,7 +1,7 @@
 # Metaheuristics
 
 ##  F6 Shifted Ackley's Function - Optimisation for dimensions 50 and 500:
-
+<img width="525" alt="ackleysqn" src="https://user-images.githubusercontent.com/35540215/88487468-a2f84100-cf85-11ea-9ca6-fa6ef673383f.PNG">
 
 * **Data file** :  'ackleys.txt' (data provided)
 * **Usage** The file 'shifted_ackleys.py' which contains the python code, along with the data file 'ackleys.txt', may be used in Jupyter notebook/Google Colab
@@ -9,6 +9,8 @@
 * **Parameters used** : Population size, Generations
 * **Stopping criterion** : A good approximation close to the best available solution for the problem
 * **Result** : 
+
+<img width="450" alt="ShiftedAckleydim50" src="https://user-images.githubusercontent.com/35540215/88487474-a986b880-cf85-11ea-820c-61589abfc061.PNG"> <img width="450" alt="ShiftedAckleydim500" src="https://user-images.githubusercontent.com/35540215/88487481-aee40300-cf85-11ea-83d2-b49371a555f2.PNG">
 
 
 
