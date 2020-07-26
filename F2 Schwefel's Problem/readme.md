@@ -5,7 +5,7 @@
 
 
 * **Data file** :  'schwefel.txt' (data provided)
-* **Usage ** The file 'schwefel.py' which contains the python code along with the data file 'schwefel.txt' may be used in Jupyter notebook/Google Colab
+* **Usage** :  The file 'schwefel.py' which contains the python code along with the data file 'schwefel.txt' may be used in Jupyter notebook/Google Colab
 * **Choice of algorithm** : Pygmo package  with Genetic algorithm has been used, since it gives good approximations for this type of problem, in terms of value as well as computation time.
 * **Parameters used** : Population size, Generations
 * **Stopping criterion** : A good approximation close to the best available solution for the problem
