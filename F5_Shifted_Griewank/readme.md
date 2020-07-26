@@ -1,7 +1,7 @@
 # Metaheuristics
 
 ##  F5 Shifted  Griewank's Function - Optimisation for dimensions 50 and 500:
-
+<img width="525" alt="griewankqn" src="https://user-images.githubusercontent.com/35540215/88487300-287af180-cf84-11ea-8b87-4f5f9d68695d.PNG">
 
 * **Data file** :  'griewank.txt' (data provided)
 * **Usage** The file 'shifted_griewank.py' which contains the python code, along with the data file 'griewank.txt', may be used in Jupyter notebook/Google Colab
@@ -9,6 +9,8 @@
 * **Parameters used** : Population size, Generations
 * **Stopping criterion** : A good approximation close to the best available solution for the problem
 * **Result** : 
+
+<img width="450" alt="Griewankdim50" src="https://user-images.githubusercontent.com/35540215/88487304-2f096900-cf84-11ea-8f63-70e5568b2d86.PNG"> <img width="450" alt="Griewankdim500" src="https://user-images.githubusercontent.com/35540215/88487306-33ce1d00-cf84-11ea-84ba-abe93b9018c5.PNG">
 
 
 
